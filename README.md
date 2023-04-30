@@ -35,6 +35,10 @@ flutter main.dart
 
 ## Try the Application on your device:
 
+[Release: v1.0.0](https://github.com/Devanshu-17/MedApp/releases/tag/v1.0.0)
+
+
+![APK](https://img.shields.io/badge/APK-3670A0?style=for-the-badge&logo=APK&logoColor=ffdd84)
 
 
 ## Screenshots
@@ -50,17 +54,17 @@ flutter main.dart
 
 ### Live Location Screen
 
-![3](https://user-images.githubusercontent.com/93381397/235344374-3c5b1d96-9cb2-451a-93ca-6ca5ed4cd422.jpeg)
+![3](https://user-images.githubusercontent.com/93381397/235344475-60b06345-8079-49d9-9ab7-a9cc48e7eead.jpeg)
 
 
 ### Nearby Hospitals Screen
 
-![4](https://user-images.githubusercontent.com/93381397/235344384-fb9ffeca-6074-4cec-8f11-28c6e67cb8cb.jpeg)
+![4](https://user-images.githubusercontent.com/93381397/235344492-8adc2d4d-e3a8-4906-a9e3-b19041a705af.jpeg)
 
 
 ### Directions Screen
 
-![5](https://user-images.githubusercontent.com/93381397/235344403-445f6a2a-198b-4bf6-8e2c-0e52b41a7c65.jpeg)
+![5](https://user-images.githubusercontent.com/93381397/235344498-ef934848-cbff-4268-ace4-6391b2766ed0.jpeg)
 
 
 ## License
